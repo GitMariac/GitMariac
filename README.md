@@ -10,7 +10,11 @@
 
 
 ### Resumè
+<blockquote>
 Estudante de Desenvolvimento de Software, em transição de carreira, tenho construído minha jornada com dedicação, constância e muita clareza de propósito. Atualmente, meu foco de estudo tem sido JavaScript, Python, .NET e C#, e estou ampliando minhas competências em Front-End com Bootstrap e React com projetos práticos no GitHub.
+
+<em>I am a Software Development student in career transition, building my journey with dedication, consistency, and a clear sense of purpose. Currently, my focus of study includes HTML, CSS, JavaScript, Python, .NET, and C#, and I am expanding my Front-End skills with Bootstrap, Tailwind, and React through practical projects on GitHub. </em>
+</blockquote>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10 p;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
@@ -19,7 +23,6 @@ Estudante de Desenvolvimento de Software, em transição de carreira, tenho cons
 Aprendo rápido, sou proativa e tenho facilidade em buscar soluções por conta própria — habilidades que desenvolvi ao longo de uma vida marcada por maturidade, resiliência e reinvenção. Possuo foco e uma visão clara do que quero: construir uma carreira sólida em tecnologia e entregar resultados com seriedade e comprometimento.
 
 Estou continuamente em busca de conhecimento, realizando cursos, bootcamps e práticas constantes na área de TI. Estou pronta para aprender, contribuir e crescer diariamente.
-I am a Software Development student in career transition, building my journey with dedication, consistency, and a clear sense of purpose. Currently, my focus of study includes HTML, CSS, JavaScript, Python, .NET, and C#, and I am expanding my Front-End skills with Bootstrap, Tailwind, and React through practical projects on GitHub.
 
 ## 🧭 Minha trajetória de aprendizado
 
