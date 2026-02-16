@@ -11,8 +11,8 @@
 
 ### Resumè
 <blockquote>
-Estudante de Desenvolvimento de Software, em transição de carreira, tenho construído minha jornada com dedicação, constância e muita clareza de propósito. Atualmente, meu foco de estudo tem sido JavaScript, Python, .NET e C#, e estou ampliando minhas competências em Front-End com Bootstrap e React com projetos práticos no GitHub.
-
+Estudante de Desenvolvimento de Software, em transição de carreira, tenho construído minha jornada com dedicação, constância e muita clareza de propósito. Atualmente, meu foco de estudo tem sido JavaScript, Python, .NET e C#, e estou ampliando minhas competências em Front-End com Bootstrap e React com projetos práticos no GitHub.  
+<br><br>
 <em>I am a Software Development student in career transition, building my journey with dedication, consistency, and a clear sense of purpose. Currently, my focus of study includes HTML, CSS, JavaScript, Python, .NET, and C#, and I am expanding my Front-End skills with Bootstrap, Tailwind, and React through practical projects on GitHub. </em>
 </blockquote>
 
