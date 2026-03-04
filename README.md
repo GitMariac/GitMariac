@@ -34,10 +34,7 @@ No ano de 2023 esbarrei sem querer em um curso de Java e achei interessantíssim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-</p>
-Nesse momento criei projetos práticos com cursos que realizei e o meu primeiro projeto pessoal que guardo com muito carinho tal como aquelas fotos da época do Ensino Médio
 
->>>>Link do Noesis
 
 
 ---
